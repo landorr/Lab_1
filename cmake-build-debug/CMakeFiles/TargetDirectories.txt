@@ -1,0 +1,3 @@
+C:/Users/orlan/CLionProjects/pocard/firstcs136/cmake-build-debug/CMakeFiles/firstcs136.dir
+C:/Users/orlan/CLionProjects/pocard/firstcs136/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/orlan/CLionProjects/pocard/firstcs136/cmake-build-debug/CMakeFiles/rebuild_cache.dir

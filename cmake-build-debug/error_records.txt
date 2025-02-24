@@ -1,0 +1,5 @@
+BPAZ3478, Tucker_48, Tucker_Corp, 51, 1663000.00 - Model must be alphanumeric; 
+MPKZ1205, RX3, Lexus, -5, 3000.00 - No '0' allowed; Quantity can't be negative; Price must be above 12999.00; 
+ABCD1234, ModelX, , 5, 20000.00 - Manufacturer can't be empty; 
+WXYZ5678, ModelZ, Ford, 7, - Missing Price; 
+LMNO4321, Speedster, Porsche, , 35000.00 - Invalid Quantity; 
