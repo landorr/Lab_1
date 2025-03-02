@@ -52,7 +52,7 @@ bool isValidRecord(const Record &rec, string &errorMessage) {
     }
 
     if (rec.manufacturer.empty() || rec.manufacturer == "UNKNOWN") {
-        errorMessage += " Missing Manufacturer;";
+        errorMessage += " Manufacturer Missing;";
     }
 
     if (rec.price <= MIN_PRICE) {
